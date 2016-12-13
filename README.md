@@ -1,6 +1,6 @@
 # vue2-shopping-cart
 
-> A Vue.js project
+> 一个vu2购物车实例
 
 ## Build Setup
 
